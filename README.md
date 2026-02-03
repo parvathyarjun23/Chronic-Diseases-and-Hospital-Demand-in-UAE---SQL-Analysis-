@@ -1,0 +1,2 @@
+# Chronic-Diseases-and-Hospital-Demand-in-UAE---SQL-Analysis-
+SQL-based population health analytics project analyzing chronic lifestyle disease trends and their impact on hospital resource demand in the UAE, using publicly available WHO data.. Understanding how disease burden correlates with healthcare utilization is essential for capacity planning, preventive care, and future AI-driven interventions.
